@@ -24,3 +24,7 @@ The visualization uses a "Riddle Master vs. Detective" analogy to explain the co
 - **Run Cycle**: Manually triggers one iteration of the training loop.
 - **Auto Play**: Runs the simulation continuously until the agents converge.
 - **Reset**: Resets the agents to level 1.
+
+## Generated Page
+
+![Generated Page Example](example.gif)
