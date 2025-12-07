@@ -4,6 +4,7 @@ This project provides an interactive visualization of the **Agent0** framework d
 
 - **Paper:** [arXiv:2511.16043](https://arxiv.org/abs/2511.16043)
 - **Code:** [GitHub Repository](https://github.com/aiming-lab/Agent0)
+- **GitHub Page:** [GitHub Example](https://fraher.github.io/intuitive_pdf/)
 
 ## How to Run
 Simply open the `index.html` file in any modern web browser.
